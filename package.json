@@ -1,0 +1,24 @@
+{
+  "name": "redes-de-computadores",
+  "version": "0.0.1",
+  "description": "",
+  "main": "index.js",
+  "authors": {
+    "name": "Eduardo Queirós",
+    "email": "code36u4r60@hotmail.com"
+  },
+  "repository": "/redes-de-computadores",
+  "scripts": {
+    "dev": "vuepress dev src",
+    "build": "vuepress build src"
+  },
+  "license": "MIT",
+  "devDependencies": {
+    "vuepress": "^1.5.3"
+  },
+  "dependencies": {
+    "@vuepress/plugin-back-to-top": "^1.9.7",
+    "vuepress-plugin-mathjax": "^1.2.8",
+    "vuepress-theme-yuu": "^3.1.1"
+  }
+}
