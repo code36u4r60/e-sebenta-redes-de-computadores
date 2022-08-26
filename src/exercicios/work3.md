@@ -2,6 +2,7 @@
 
 ![Cenário do protocolo 3.1](/images/practical/3R2C3L.png)
 
+[Baixar arquivo - packet tracer](/cisco-packet-tracer/trabalho3.pkt)
 > Considere que dispõe das redes 192.168.0.0/24 a 192.168.10.0/24 para atribuir aos equipamentos. Configure os equipamentos seguindo os passos.
 
 ### Defina as redes que vai usar

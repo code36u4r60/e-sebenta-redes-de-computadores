@@ -4,6 +4,7 @@
 
 ![Cenário do protocolo 7.1](/images/practical/3R2C3L.png)
 
+[Baixar arquivo - packet tracer](/cisco-packet-tracer/trabalho7.pkt)
 
 Considere que dispões da fede 192.168.0.0/16 para atribuir às redes locais e a rede 10.1.1.0/24 para atribuir à ligações entre os routers. Cada uma redes locais derá suportar 200 hosts ligados.
 

@@ -4,6 +4,7 @@
 
 ![Cenário do protocolo 8](/images/practical/5R4L.png)
 
+[Baixar arquivo - packet tracer](/cisco-packet-tracer/exemploOSPF.pkt)
 #### Tem disponíveis as seguintes redes para atribuir aos equipamentos:
 - LAN0 e LAN1: 192.168.0.0 /16
 - LAN2 e LAN3: 172.16.0.0 /16

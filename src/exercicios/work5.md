@@ -4,6 +4,7 @@
 
 ![Cenário do protocolo 5.1](/images/practical/3R2C3L.png)
 
+[Baixar arquivo - packet tracer](/cisco-packet-tracer/trabalho5.pkt)
 > Considere que dispõe da rede 172.16.0.0/16 para atribuir às redes locais e a rede 10.0.0.0/24 para atribuir à ligações entre os routers. Cada uma das redes locais deverá suportar 200 hosts ligados.
 
 ### Defina as redes que vai usar

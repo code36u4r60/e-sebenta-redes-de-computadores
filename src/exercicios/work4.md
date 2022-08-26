@@ -4,6 +4,7 @@
 
 ![Cenário do protocolo 4](/images/practical/3R2C3L.png)
 
+[Baixar arquivo - packet tracer](/cisco-packet-tracer/trabalho4.pkt)
 > Considere que dispõe das redes 192.168.0.0/24 e 192.168.1.0/24 para atribuir aos equipamentos, utilizando sub-redes de tamanho apropriado, de modo a que cada uma das redes locais possa albergar até 63 hosts + 1 Router.
 
 ### Defina as redes que vai usar

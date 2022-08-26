@@ -2,6 +2,7 @@
 
 ![Cenário do protocolo 2](/images/practical/2R.png)
 
+[Baixar arquivo - packet tracer](/cisco-packet-tracer/trabalho2.pkt)
 > Utilize as seguintes redes para as interfaces dos routers e dos PCs: Configure os equipamentos, seguindo os seguintes passos.
 
 ### Defina as redes que vai usar

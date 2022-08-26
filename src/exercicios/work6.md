@@ -4,6 +4,7 @@
 
 ![Cenário do protocolo 6](/images/practical/5R4L.png)
 
+[Baixar arquivo - packet tracer](/cisco-packet-tracer/trabalho6.pkt)
 
 #### Tem disponíveis as seguintes redes para atribuir aos equipamentos:
 - LAN 0 e LAN 1: 192.168.0.0/16
